@@ -24,7 +24,7 @@ nav{
 
 nav li{
     display: inline;
-    background-image: url(../img/img/patinha-preta.png);
+    background-image: url(../img/patinha-preta.png);
     background-repeat: no-repeat;
     padding-right: 27px;
     margin-right: 10;
@@ -110,5 +110,13 @@ form textarea{
 
 iframe{
     width: 100%;
+}
+
+.main-footer{
+   display: flex;
+   background-color: #6dd432;
+   justify-content: center;
+   width: 400px;
+   height: 100px;
 }
 
